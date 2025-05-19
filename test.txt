@@ -5,3 +5,5 @@ Kitas tekstas, kuris gali sukelti problemų
 
 Nauja teksto eilutė
 Nauja eilutė
+
+Nauja konfliktinė eilutė

@@ -1,0 +1,3 @@
+2 skyrius. Git commit iš PC
+
+Padarysime savo pirmą commit iš PC

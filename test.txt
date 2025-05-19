@@ -4,3 +4,4 @@ Tiesiog testui sukurtas failas
 Kitas tekstas, kuris gali sukelti problemų
 
 Nauja teksto eilutė
+Nauja eilutė

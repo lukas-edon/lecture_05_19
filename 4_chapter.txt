@@ -3,4 +3,6 @@
 Failas apie šakų kūrima git'e ir jų valdymą
 
 Pirma eilutė, kuri konfliktuos, bet neturėtų
-Antra eilutė, kuri taip pat konfliktuos, bet neturėtų
+Antra eilutė, kuri sukels konfliktą taip pat
+
+Tiesiog eilutė

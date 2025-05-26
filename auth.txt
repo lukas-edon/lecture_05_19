@@ -1,0 +1,4 @@
+
+Sukūriau duomenų bazę
+Paruošiau html ir css
+Padariau kitus reikalingus dalykus auth servisui

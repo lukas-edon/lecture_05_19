@@ -2,7 +2,7 @@
 
 Failas apie šakų kūrima git'e ir jų valdymą
 
-Pirma eilutė, kuri sukels konfliktą
+Pirma eilutė, kuri konfliktuos, bet neturėtų
 Antra eilutė, kuri sukels konfliktą taip pat
 
 Tiesiog eilutė
